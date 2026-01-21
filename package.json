@@ -4,8 +4,8 @@
   "version": "0.0.0",
   "type": "module",
   "author": {
-    "name": "omancilla",
-    "github": "https://github.com/omancillav"
+    "name": "NexNova",
+    "github": "https://github.com/NexNovaUttec"
   },
   "scripts": {
     "dev": "vite",
