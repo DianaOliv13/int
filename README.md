@@ -105,7 +105,7 @@ src/
 1. **Clona el repositorio**
 
    ```bash
-   git clone https://github.com/omancillav/vet-sync-app.git
+   git clone https://github.com/NexNovaUttec/vet-sync-app.git
    cd vet-sync-app
    ```
 
@@ -217,9 +217,9 @@ Las contribuciones son bienvenidas. Para contribuir:
 
 ## 👨‍💻 Autor
 
-### omancilla
+### NexNova
 
-- GitHub: [@omancillav](https://github.com/omancillav)
+- GitHub: [@NexNova](https://github.com/NexNovaUttec)
 
 ---
 
