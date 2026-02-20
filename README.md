@@ -224,3 +224,6 @@ Las contribuciones son bienvenidas. Para contribuir:
 ---
 
 ⭐ ¡No olvides darle una estrella al proyecto si te gustó!
+=======
+# int
+>>>>>>> 9fbabc86d2be14978e02701e4d5f6faf0e46a365
